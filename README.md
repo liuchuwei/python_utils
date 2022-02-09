@@ -1,2 +1,2 @@
 # python_utils
-repository fo python utils
+repository of python utils
